@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Joshua Perez</h1>
 <h3 align="center">A passionate aspiring Web Developer & Data Analyst from the Philippines</h3>
 <p align="center">
-  <img src="https://media1.tenor.com/m/h0mocw4K4ywAAAAC/anime-girl.gif" alt="Anime Typing" width="500"/>
+  <img src="https://media.tenor.com/MdRuJoKAuWUAAAAi/mafumafu-cute.gif" alt="Anime gif" width="500"/>
 </p>
 
 <p align="left">
@@ -41,11 +41,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wesley" alt="wesley" />
-  </a>
-</p>
+<!--for github status-->
+| <img src="https://github-profile-trophy.vercel.app/?username=wesley" width="1000"/> | <img src="https://github-readme-stats.vercel.app/api?username=WesleyJoshuaPerez&show_icons=true&theme=tokyonight" width="800"/> |
+| --- | --- |
+
+
 
 
 
@@ -62,14 +62,25 @@
 </p>
 
 <h3>🎯 Current Focus</h3>
-<ul>
-  <li>Learning and building responsive websites</li>
-  <li>Improving skills in data visualization and analytics</li>
-  <li>Working on academic and portfolio projects</li>
-</ul>
+
+<table>
+  <tr>
+    <td style="border:none;">
+      <img src="https://media.tenor.com/kWgpUWMtrjcAAAAj/evil-evil-lums.gif" alt="Focus Image" width="320">
+    </td>
+    <td style="border:none;">
+      <ul>
+        <li>Learning and building responsive websites</li>
+        <li>Improving skills in data visualization and analytics</li>
+        <li>Working on academic and portfolio projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- 
+<p align="left"> 
   <a href="https://www.linkedin.com/in/wesley-joshua-perez/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
  <a href="https://www.facebook.com/WesleyJoshuaPerez/"><img align="center" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" alt="facebook" height="30" width="40" /></a>
 </p>
